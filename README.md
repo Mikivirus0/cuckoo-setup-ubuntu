@@ -322,7 +322,7 @@ The moment of truth has arrived – it's time to launch Cuckoo Sandbox and witne
     cuckoo rooter --sudo --group ubuntu
     ```
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10715014-5a70-4fd5-b5ce-1fe7ccc1a350/Untitled.png)
+
     
     It's like ensuring everyone's in place backstage before the curtain rises.
     
@@ -331,8 +331,7 @@ The moment of truth has arrived – it's time to launch Cuckoo Sandbox and witne
     ```bash
     cuckoo
     ```
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e21bfdd6-1dac-495d-860b-c3994b2a31f7/Untitled.png)
+
     
     This is where the magic begins – the performance is about to unfold.
     
@@ -341,8 +340,7 @@ The moment of truth has arrived – it's time to launch Cuckoo Sandbox and witne
     ```bash
     cuckoo web -H yourip -p 8000
     ```
-    
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f378cbd-f4d1-4686-8f65-17e49408d675/Untitled.png)
+
     
     After running this, it will provide you link for the web interface, and you can access that interface from all the devices connected to your network.
     
